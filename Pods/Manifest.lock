@@ -1,0 +1,18 @@
+PODS:
+  - Networking (0.1.0)
+  - Networking/Tests (0.1.0)
+
+DEPENDENCIES:
+  - Networking (from `DevelopmentPods/Networking`)
+  - Networking/Tests (from `DevelopmentPods/Networking`)
+
+EXTERNAL SOURCES:
+  Networking:
+    :path: DevelopmentPods/Networking
+
+SPEC CHECKSUMS:
+  Networking: 08281ed199787c185ab0a7fa6abdb0c567d84887
+
+PODFILE CHECKSUM: 69396a44a339a1bd848a1e3963129b091ee0b998
+
+COCOAPODS: 1.10.0
